@@ -30,4 +30,14 @@ public class Calculator {
     {
         return a / b;
     }
+
+    public int multy(int a, int b)
+    {
+        return a * b;
+    }
+
+    public double multy(double a, double b)
+    {
+        return a * b;
+    }
 }
