@@ -40,4 +40,9 @@ public class Calculator {
     {
         return a * b;
     }
+
+    public int porcentage(int a, int b)
+    {
+        return a / 100 * b;
+    }
 }
