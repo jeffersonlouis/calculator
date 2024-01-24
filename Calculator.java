@@ -6,7 +6,7 @@ public class Calculator{
 
     public double addition(int a, int b)
     {
-        return a + b;
+        return b + a;
     }
 
     public int divide(int a, int b)
