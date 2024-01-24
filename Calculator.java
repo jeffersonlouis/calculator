@@ -9,8 +9,13 @@ public class Calculator{
         return b + a;
     }
 
-    public int divide(int a, int b)
+    public int subtraction(int a, int b)
     {
-        return a / b;
+        return a - b;
+    }
+
+    public double subtraction(int a, int b)
+    {
+        return a - b;
     }
 }
