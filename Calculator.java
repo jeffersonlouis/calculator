@@ -1,4 +1,13 @@
 public class Calculator{
+    public int addition(int a, int b)
+    {
+        return a + b;
+    }
+
+    public double addition(int a, int b)
+    {
+        return b + a;
+    }
 
     public int subtraction(int a, int b)
     {
@@ -8,10 +17,5 @@ public class Calculator{
     public double subtraction(int a, int b)
     {
         return a - b;
-    }
-
-    public times(int a, int b)
-    {
-        return a * b;
     }
 }
